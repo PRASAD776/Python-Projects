@@ -1,4 +1,4 @@
-# doremoen with python turtle
+# doraemon code
 from turtle import *
 
 
