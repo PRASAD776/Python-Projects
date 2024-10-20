@@ -64,6 +64,7 @@ def move_snake():
         turtle.ontimer(move_snake, DELAY)
 
 
+
 def food_collision():
     global food_pos
     if get_distance(snake[-1], food_pos) < 20:
