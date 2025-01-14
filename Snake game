@@ -4,7 +4,7 @@ import random
 #  @python.coder_
 WIDTH = 500
 HEIGHT = 500
-FOOD_SIZE = 10
+FOOD_SIZE = 10 
 DELAY = 100
 offsets = {
     "up": (0, 20),
